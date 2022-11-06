@@ -9,7 +9,7 @@
   - [Reference and Primitive types](javascript-refresher/reference-and-primitive-types.md)
   - [Array Functions](javascript-refresher/array-functions.md)
 - [Getting Started](getting-started.md)
-  - [Set up Development Environment](set-up-development-environment.md)
+  - [Set up Development Environment](set-up/install-vscode.md)
   - [Create a react project](create-a-new-react-project.md)
 - [Components](introdction.md)
   - [What is react component?](what-is-react-component.md)
